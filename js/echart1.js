@@ -1,7 +1,9 @@
-$(document).ready(function() {
+$(document).ready(function  () {
+  // body...
 
+    // <script type="text/javascript">
         // 基于准备好的dom，初始化echarts图表
-        var myChart = echarts.init(document.getElementById('main1')); 
+        var myChart = echarts.init(document.getElementById('main')); 
         
         var option = {
     title : {
@@ -146,11 +148,5 @@ $(document).ready(function() {
 
         // 为echarts对象加载数据 
         myChart.setOption(option); 
-
-
-
-
-
-
-	// body...
-})
+    // </script>
+    })    

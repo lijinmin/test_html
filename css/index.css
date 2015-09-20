@@ -63,5 +63,5 @@ li div.pic_each{width: 900px;height: 552px;overflow: hidden;}
 .box_footer input:hover{transform:scale(1.1);}
 .report_box .report-win{ position: fixed; left:0; top:0; width:100%; height:100%; background:#000; opacity:0.4; filter:alpha(opacity=0.4);}
 
-.echart_1{height: 400px;background-color: white;width: 900px;}
+.echart_1{height: 400px;width: 900px;background-color: white;margin-top: 20px;}
 
